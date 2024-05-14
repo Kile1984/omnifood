@@ -1,3 +1,3 @@
 # omnifood
-css grid
-full responsive
+- css grid
+- full responsive
